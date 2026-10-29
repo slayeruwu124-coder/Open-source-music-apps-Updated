@@ -64,6 +64,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Spotui](https://github.com/Spotui/Spotui)
 - [Stash](https://github.com/rawnaldclark/Stash)
 - [Square](https://github.com/Lelonio/Square)
+- [shiny](https://github.com/lastdaytheOG/Shiny)
 - [Velune](https://github.com/nikhilvishwakarma00/Velune)
 - [ViTune](https://github.com/25huizengek1/ViTune)
 - [VIVI Music](https://github.com/vivizzz007/vivi-music)
