@@ -55,6 +55,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Music-You](https://github.com/DanielSevillano/music-you)
 - [Musify](https://github.com/gokadzev/Musify)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
+- [muzicX](https://github.com/MrTG-CodeBot/muzicX-music-app)
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
 - [N-Zik](https://github.com/N-Zik-Group/N-Zik)
 - [OpenTune](https://github.com/justshivv/Opentune)
