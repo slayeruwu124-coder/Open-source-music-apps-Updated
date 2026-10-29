@@ -44,6 +44,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [LastWave](https://github.com/Clash-Projects/LastWave-native)
+- [Loudly](https://github.com/RRechz/Loudly)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
 - [Meld](https://github.com/FrancescoGrazioso/Meld)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
