@@ -36,6 +36,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
+- [Convx]
+(https://github.com/cosmictaserdev-creator/Convx)
 - [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
