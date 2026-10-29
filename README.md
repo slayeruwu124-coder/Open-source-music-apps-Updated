@@ -40,6 +40,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Echo Nightly](https://github.com/brahmkshatriya/echo)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
+- [Iride](https://github.com/Fhox006/Iride)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [LastWave](https://github.com/Clash-Projects/LastWave-native)
