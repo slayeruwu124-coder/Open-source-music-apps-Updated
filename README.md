@@ -77,6 +77,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Velune](https://github.com/nikhilvishwakarma00/Velune)
 - [ViTune](https://github.com/25huizengek1/ViTune)
 - [VIVI Music](https://github.com/vivizzz007/vivi-music)
+- [Zen Music](https://github.com/vorlon-dev/Zen-music)
 
 ---
 
