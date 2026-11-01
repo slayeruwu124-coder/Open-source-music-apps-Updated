@@ -126,7 +126,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
-
+- [Zen Music](https://github.com/vorlon-dev/Zen-music)
 #### Offline Music Players (Windows)
 
 - [Harmonoid](https://github.com/harmonoid/harmonoid)
