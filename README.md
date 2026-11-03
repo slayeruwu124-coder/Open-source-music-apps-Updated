@@ -43,6 +43,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Harmony–Music](https://github.com/anandnet/Harmony-Music)
 - [Iride](https://github.com/Fhox006/Iride)
 - [Inzx](https://github.com/nirmaleeswar30/Inzx/)
+- [Interlude Music](https://github.com/naklirajveerfr/Interlude-Music)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [KuroMusic](https://github.com/KiritoAPT2/KuroMusic)
