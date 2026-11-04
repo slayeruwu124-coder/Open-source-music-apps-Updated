@@ -34,6 +34,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
+- [AsterTune](https://github.com/yuuichi-s/AsterTune)
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Convx](https://github.com/cosmictaserdev-creator/Convx)
@@ -62,6 +63,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [N-Zik](https://github.com/N-Zik-Group/N-Zik)
 - [OpenTune](https://github.com/justshivv/Opentune)
 - [PixelMusic](https://github.com/ianshulyadav/PixelMusic)
+- [Prism](https://github.com/Yigder/Prism)
 - [RiPlay](https://github.com/fast4x/RiPlay)
 - [SaavnMp3](https://github.com/harshshah6/SaavnMp3-Android)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
