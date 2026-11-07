@@ -34,6 +34,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
+- [Aura-Music](https://github.com/jlfuertes14/Aura-Music)
 - [AsterTune](https://github.com/yuuichi-s/AsterTune)
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
